@@ -9,10 +9,11 @@
 
 
 
-# JAVA BASIC
+# JAVA BASIC & ![bluej-128-embossed](https://user-images.githubusercontent.com/86569498/133910962-8051b871-c63e-4340-9878-0ddbf2696173.png)
+
 <span align="center">
   
-## ![int-increase](https://user-images.githubusercontent.com/86569498/133910835-1d284c10-216a-43e5-9258-093b213bdcfa.gif)
+## <img width="349" alt="bluej-sshot" src="https://user-images.githubusercontent.com/86569498/133911140-ad3d6cf7-5a22-4f03-90ad-8e980cd6bd83.png">
 
 </span>
 
