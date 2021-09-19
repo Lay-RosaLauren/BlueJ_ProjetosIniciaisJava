@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Principal
+comment0.text=\r\n\ Sistema\ que\ faz\ uma\ opera\u00E7\u00E3o\ aritim\u00E9tica\ simples\r\n\ -\ Recebe\ dois\ n\u00FAmeros\ e\ um\ operador\ e\ mostra\ o\ resultado\r\n\ -\ CALCULADORA\ SIMPLEX\r\n\ \r\n\ @author\ (Lay-RosaLauren)\ \r\n\ @version\ (1.0\ -\ 30/07/2021)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ M\u00E9todo\ Principal\r\n
+numComments=2
