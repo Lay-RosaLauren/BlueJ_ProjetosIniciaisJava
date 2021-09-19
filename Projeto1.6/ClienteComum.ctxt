@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ClienteComum
+comment0.text=\r\n\ ClienteComum\r\n\ \r\n\ @author\ (Lay-RosaLauren)\ \r\n\ @version\ (1.0\ -\ 01/08/2021)\r\n
+comment1.params=n\ e\ i
+comment1.target=ClienteComum(java.lang.String,\ java.lang.String,\ int)
+numComments=2
