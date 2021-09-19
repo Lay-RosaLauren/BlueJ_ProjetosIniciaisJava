@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Calculadora
+comment0.text=\r\n\ Classe\ que\ executa\ um\ c\u00E1lculo\ aritm\u00E9tico\r\n\ conforme\ os\ parametros\ enviados\r\n\ \r\n\ @author\ (Lay-RosaLauren)\ \r\n\ @version\ (1.0\ \ 02/08/2021)\r\n
+comment1.params=n1\ n2\ op
+comment1.target=double\ executar(double,\ double,\ java.lang.String)
+numComments=2
