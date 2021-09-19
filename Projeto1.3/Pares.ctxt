@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Pares
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ Pares\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=ini\ fim
+comment1.target=java.lang.String\ retornaNros(int,\ int)
+comment1.text=\r\n\ \r\n
+numComments=2
